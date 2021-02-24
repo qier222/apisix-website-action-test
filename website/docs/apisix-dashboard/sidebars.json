@@ -1,5 +1,11 @@
 {
-  "docs": {
-    "APISIX™️ Dashboard": ["test"]
-  }
+    "docs": {
+        "Get Involved": [
+            "getting-started"
+        ],
+        "Plugins": [
+            "jwt-auth-id",
+            "key-auth-id"
+        ]
+    }
 }
