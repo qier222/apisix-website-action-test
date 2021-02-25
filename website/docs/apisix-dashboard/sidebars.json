@@ -4,8 +4,8 @@
             "getting-started"
         ],
         "Plugins": [
-            "jwt-auth-id",
-            "key-auth-id"
+            "plugins/jwt-auth-id",
+            "plugins/key-auth-id"
         ]
     }
 }
